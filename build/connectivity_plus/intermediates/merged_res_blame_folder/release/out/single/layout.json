@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    }
+]

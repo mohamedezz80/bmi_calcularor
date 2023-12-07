@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\APPSs\\doctor_app\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ezz\\.gradle\\caches\\transforms-3\\4b3d11ba7894bbe787d3ecb32787b658\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]
